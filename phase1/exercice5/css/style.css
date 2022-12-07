@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+.boite4 {
+  height: 250px;
+  width: 250px;
+  background-color: rgb(255, 0, 204);
+  padding: 20px;
+  border: 15px solid black;
+  margin: 25;
+}
