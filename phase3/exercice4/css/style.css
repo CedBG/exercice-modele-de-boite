@@ -1,0 +1,8 @@
+.boite14 {
+  width: 250px;
+  background-color: rgb(255, 0, 204);
+  padding: 20px;
+  border: 2px solid black;
+  margin: 25;
+  max-height: 250px;
+}

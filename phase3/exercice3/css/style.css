@@ -1,7 +1,7 @@
-.boite6 {
+.boite13 {
   height: 250px;
   width: 250px;
+  background-color: rgb(13, 0, 255);
   padding: 20px;
   border: 2px solid black;
-  background: url("../../img/fond-bleu.jpg") no-repeat top left;
 }

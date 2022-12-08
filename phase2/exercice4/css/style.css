@@ -1,8 +1,7 @@
 .boite8 {
   height: 250px;
   width: 250px;
-  background-color: rgb(255, 0, 204);
   padding: 20px;
   border: 2px solid black;
-  background-image: url("/phase2/img/motif-01.png");
+  background: url("../../img/motif-01.png");
 }

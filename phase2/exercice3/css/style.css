@@ -1,9 +1,7 @@
 .boite7 {
   height: 250px;
   width: 250px;
-  background-color: rgb(13, 0, 255);
   padding: 20px;
   border: 2px solid black;
-  background-image: url("/phase2/img/fond-bleu.jpg");
-  background-position: bottom right;
+  background: url("../../img/fond-bleu.jpg") no-repeat bottom right;
 }
