@@ -1,0 +1,8 @@
+.boite5 {
+  height: 250px;
+  width: 250px;
+  background-color: red;
+  padding: 20px;
+  border: 2px solid black;
+  background-image: url("/phase2/img/fond-brique.jpg");
+}
